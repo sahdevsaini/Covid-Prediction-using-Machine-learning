@@ -26,16 +26,16 @@ https://github.com/sahdevsaini/Covid-Prediction-using-Machine-learning/blob/main
 The dataset was tested against various machine learning models, and the best results are summarized below:
 
 1. **Decision Trees**
-   - Accuracy: XX%
+   - Accuracy: 98%
 
-2. **Random Forest**
-   - Accuracy: XX%
+2. **KNN**
+   - Accuracy: 94.06%
 
 3. **Support Vector Machines (SVM)**
-   - Accuracy: XX%
+   - Accuracy: 95.24%
 
 4. **Logistic Regression**
-   - Accuracy: XX%
+   - Accuracy: 94.53%
 
 ### Technology 💻
 - Machine Learning
