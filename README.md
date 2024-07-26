@@ -61,6 +61,3 @@ The dataset was tested against various machine learning models, and the best res
 
 ### Contributors
 - Sahdev Saini
-
-### License
-This project is licensed under the MIT License.
